@@ -1,14 +1,14 @@
-# Clocky
-You can see it here--> https://github.com/ecp12/Relog 
+# Relog
+Lo puedes ver en--> https://github.com/ecp12/Relog
 
-## Descripción.
+## Description
 Esta es una pequeña práctica con javascript donde he hecho un pequeño reloj y un calendario que muestra los días y las horas en tiempo real.
 
 
-## Demo. 
+## Demo and Screen Shots 
 ![democlocky](Demo.gif)
 
-## Elaborado con.
+## Built with
 
  HTML/CSS/Vanilla JavaScript.
 
