@@ -1,5 +1,5 @@
 # Relog
-Lo puedes ver en--> https://github.com/ecp12/Relog
+Lo puedes ver en--> https://github.com/ecp12/ReloJs
 
 ## Description
 Esta es una pequeña práctica con javascript donde he hecho un pequeño reloj y un calendario que muestra los días y las horas en tiempo real.
