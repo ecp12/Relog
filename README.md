@@ -1,4 +1,4 @@
-# RelogJs
+# RelojJs
 Lo puedes ver en--> https://github.com/ecp12/ReloJs
 
 ## Description
